@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@100;200;700;800;900&family=Roboto+Slab:wght@200;500;700;800;900&display=swap');
+
+body{
+    font-family: Roboto Slab;
+    background-color: #240B35;
+}
+
+body::-webkit-scrollbar{
+    width: 14px;
+    background-color: #240B35;
+}
+
+body::-webkit-scrollbar-thumb{
+    background-color: #f8c650;
+    border-radius: 10px;
+}
+
+.cabeçalho{
+    background-color: #240B35;
+}
+
+.logo_sifhub img{
+    padding: 60px 0px;
+    width: 30%;
+}
+
+.img_alunos img{
+    width: 100%;
+}
+
+.service-contents img{
+    width: 100%;
+    margin-top: 50px;
+}
+
+.phases-main{
+    width: 100%;
+    background-color: #ffa048;
+    border-radius: 80px 80px 80px 80px;
+    color: #240B35;
+}
+
+.phases{
+    padding-bottom: 50px;
+}
+
+.phases-title{
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.phases-title h3{
+    padding-bottom: 50px;
+}
+
+.phases-group{
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    width: 80%;
+}
+
+.phases-group p{
+    font-size: 1.5rem;
+    padding-bottom: 20px;
+}
+
+.phases-group h4{
+    padding: 20px 0px;
+}
+
+.phases-group .phase-content{
+    padding: 0px 60px;
+}
+
+.services{
+    margin-top: 110px;
+    color: white;
+}
+
+.services-group{
+    padding-bottom: 40px;
+}
+
+.services .headers{
+    padding-top: 30px;
+}
+
+.services .box-service img{
+    width: 80%;
+}
